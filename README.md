@@ -40,7 +40,7 @@ To save time you'll import a skill  as a starting point that has all the DinnerB
 
 3. Click on **Customize** in the top right corner. Select **Enable Slots** and **Prompt for everything**. Click **Apply**
 
-![enable slots](images/ss11.5.png)
+![enable slots](images/ss11.5.png?raw=true)
 
 4. Add the first slot by entering `@cuisine`,  in the column labeled **Check for**, `$cuisine` in the **Save it as** column and the  prompt `Which restaurant or what type of cuisine would you like?` in the **If not present, ask** column
 
